@@ -1,0 +1,10 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+
+# Configuration files
+.env
+
+# System files
+*.DS_Store
+tmp/
