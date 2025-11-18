@@ -87,7 +87,7 @@ invoice-extractor/
 │
 ├── assets/                # Optional folder for example invoices, images,,,
 │   ├── sample_invoice.pdf
-│   ├── example_invoice.png
+│   ├── example_invoice.jpg
 │   └── logo.png
 │
 ├── tests/                 # Unit tests for utils and model calls
